@@ -1,0 +1,12 @@
+2021-03-23T03:56:38.846Z [my-bank-api] info: API started 
+2021-03-23T03:56:55.085Z [my-bank-api] error: ENOENT: no such file or directory, open 'c:\igti\modulo2\my-bank-api\accounts.json'
+2021-03-23T03:57:53.346Z [my-bank-api] error: ENOENT: no such file or directory, open 'c:\igti\modulo2\my-bank-api\accounts.json'
+2021-03-23T04:02:50.206Z [my-bank-api] info: API started and file created
+2021-03-23T04:06:04.151Z [my-bank-api] info: API started 
+2021-03-23T04:08:28.997Z [my-bank-api] info: API started 
+2021-03-23T04:09:08.314Z [my-bank-api] info: API started 
+2021-03-23T04:09:19.142Z [my-bank-api] info: API started 
+2021-03-23T04:10:57.451Z [my-bank-api] info: API started 
+2021-03-23T04:11:55.846Z [my-bank-api] info: API started 
+2021-03-23T04:12:08.321Z [my-bank-api] info: POST /accounts - {"id":2,"name":"Igor Nunes","balance":1045}
+2021-03-23T04:12:14.985Z [my-bank-api] info: POST /accounts - {"id":3,"name":"Patrícia Nunes","balance":1045}
