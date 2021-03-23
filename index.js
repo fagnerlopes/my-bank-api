@@ -1,5 +1,6 @@
 import express from 'express';
 import winston from 'winston';
+import cors from 'cors';
 import accountsRouter from './routes/account.js';
 import { promises as fs } from 'fs';
 
@@ -27,7 +28,8 @@ global.fileName = 'accounts.json';
 
 const app = express();
 app.use(express.json());
-
+app.use(express.static('public'));
+app.use(cors());
 app.use('/accounts', accountsRouter);
 
 app.listen(3000, async () => {

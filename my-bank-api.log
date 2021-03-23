@@ -46,3 +46,11 @@
 2021-03-23T04:34:15.046Z [my-bank-api] info: PUT /accounts/update-balance - {"id":2,"name":"Igor Nunes","balance":9500}
 2021-03-23T04:34:45.491Z [my-bank-api] error: PATCH /accounts - Record not found.
 2021-03-23T04:36:02.169Z [my-bank-api] info: API started 
+2021-03-23T04:37:34.966Z [my-bank-api] info: API started 
+2021-03-23T04:48:30.018Z [my-bank-api] info: API started 
+2021-03-23T04:51:11.164Z [my-bank-api] info: API started 
+2021-03-23T04:51:52.486Z [my-bank-api] info: GET /accounts
+2021-03-23T04:54:58.416Z [my-bank-api] info: API started 
+2021-03-23T04:55:08.923Z [my-bank-api] info: API started 
+2021-03-23T04:55:40.250Z [my-bank-api] info: GET /accounts
+2021-03-23T05:02:17.033Z [my-bank-api] info: GET /accounts
