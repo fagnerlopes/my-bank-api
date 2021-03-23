@@ -10,3 +10,39 @@
 2021-03-23T04:11:55.846Z [my-bank-api] info: API started 
 2021-03-23T04:12:08.321Z [my-bank-api] info: POST /accounts - {"id":2,"name":"Igor Nunes","balance":1045}
 2021-03-23T04:12:14.985Z [my-bank-api] info: POST /accounts - {"id":3,"name":"Patrícia Nunes","balance":1045}
+2021-03-23T04:17:36.644Z [my-bank-api] info: API started 
+2021-03-23T04:17:41.731Z [my-bank-api] error: POST /accounts - Name and balance are required.
+2021-03-23T04:18:20.459Z [my-bank-api] error: POST /accounts - Name and balance are required.
+2021-03-23T04:18:41.834Z [my-bank-api] info: API started 
+2021-03-23T04:18:48.319Z [my-bank-api] info: API started 
+2021-03-23T04:20:37.814Z [my-bank-api] info: API started 
+2021-03-23T04:20:41.930Z [my-bank-api] error: POST /accounts - Name and balance are required.
+2021-03-23T04:20:58.767Z [my-bank-api] error: POST /accounts - Name and balance are required.
+2021-03-23T04:21:20.050Z [my-bank-api] error: POST /accounts - Name and balance are required.
+2021-03-23T04:22:04.263Z [my-bank-api] info: API started 
+2021-03-23T04:22:08.410Z [my-bank-api] info: POST /accounts - {"id":4,"name":"Ronaldo Nunes Lopes","balance":0}
+2021-03-23T04:22:22.144Z [my-bank-api] info: POST /accounts - {"id":5,"name":"Ronaldo Nunes Lopes","balance":2500}
+2021-03-23T04:22:35.781Z [my-bank-api] info: POST /accounts - {"id":6,"name":"José Souza","balance":2500}
+2021-03-23T04:23:01.917Z [my-bank-api] info: POST /accounts - {"id":7,"name":"José Souza","balance":2500}
+2021-03-23T04:25:54.864Z [my-bank-api] info: API started 
+2021-03-23T04:26:17.047Z [my-bank-api] info: API started 
+2021-03-23T04:27:31.219Z [my-bank-api] info: API started 
+2021-03-23T04:28:06.748Z [my-bank-api] info: API started 
+2021-03-23T04:28:20.089Z [my-bank-api] error: PUT /accounts - Record not found.
+2021-03-23T04:28:29.122Z [my-bank-api] info: GET /accounts
+2021-03-23T04:29:13.826Z [my-bank-api] info: PUT /accounts - {"id":4,"name":"Débora de Oliveira","balance":20.89}
+2021-03-23T04:29:22.092Z [my-bank-api] error: PUT /accounts - Name and balance are required.
+2021-03-23T04:29:31.450Z [my-bank-api] error: PUT /accounts - Name and balance are required.
+2021-03-23T04:29:52.575Z [my-bank-api] info: PUT /accounts - {"id":4,"name":"Débora de Oliveira","balance":20.89,"xxxxx":"yyyyy"}
+2021-03-23T04:30:41.946Z [my-bank-api] info: API started 
+2021-03-23T04:30:45.026Z [my-bank-api] info: PUT /accounts - {"id":4,"name":"Débora de Oliveira","balance":20.89}
+2021-03-23T04:30:56.810Z [my-bank-api] error: PUT /accounts - Name and balance are required.
+2021-03-23T04:31:11.217Z [my-bank-api] info: PUT /accounts - {"id":4,"name":"Débora de Oliveira","balance":2000.89}
+2021-03-23T04:31:16.316Z [my-bank-api] info: GET /accounts
+2021-03-23T04:32:47.946Z [my-bank-api] info: API started 
+2021-03-23T04:33:20.584Z [my-bank-api] info: API started 
+2021-03-23T04:33:28.208Z [my-bank-api] error: PATCH /accounts - Balance is required.
+2021-03-23T04:33:56.756Z [my-bank-api] info: PUT /accounts/update-balance - {"id":2,"name":"Igor Nunes","balance":9500}
+2021-03-23T04:34:15.046Z [my-bank-api] info: PUT /accounts/update-balance - {"id":2,"name":"Igor Nunes","balance":9500}
+2021-03-23T04:34:45.491Z [my-bank-api] error: PATCH /accounts - Record not found.
+2021-03-23T04:36:02.169Z [my-bank-api] info: API started 
