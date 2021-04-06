@@ -1,5 +1,5 @@
 # my-bank-api
-A Bootacamp IGTI exercise.
+A Bootacamp IGTI exercise using NodeJs and Express.
 
 ### get started
 install dependencies</br>
