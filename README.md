@@ -16,7 +16,7 @@ URL: <http://localhost:3000/doc>
 
 ![Documentation](./doc.png)
 <br/>
-![GET all - Results](./view_get_all.png)
+![GET all - Results](./insomnia.png)
 
 
 
