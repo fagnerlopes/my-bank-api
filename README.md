@@ -8,6 +8,8 @@ install dependencies<br/>
 tart server<br/>
 ```nodemon index.js```
 
+Base URL: <http://localhost:3000/accounts>
+
 ### Documentation
 
 URL: <http://localhost:3000/doc>

@@ -58,3 +58,5 @@
 2021-03-23T05:05:13.665Z [my-bank-api] info: GET /accounts
 2021-03-23T05:16:30.252Z [my-bank-api] info: API started 
 2021-03-23T05:27:09.904Z [my-bank-api] info: API started 
+2021-04-07T00:33:50.090Z [my-bank-api] info: API started 
+2021-04-07T00:34:18.644Z [my-bank-api] info: GET /accounts
