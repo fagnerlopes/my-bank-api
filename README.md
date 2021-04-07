@@ -1,5 +1,5 @@
 # my-bank-api
-A Bootacamp IGTI exercise using NodeJs and Express.
+A Bootacamp IGTI exercise using Node.js and Express.
 
 ### get started
 install dependencies<br/>
@@ -12,7 +12,9 @@ tart server<br/>
 
 URL: <http://localhost:3000/doc>
 
-![GET all - Results](./view_get_all.png)
-<br/>
-
 ![Documentation](./doc.png)
+<br/>
+![GET all - Results](./view_get_all.png)
+
+
+
