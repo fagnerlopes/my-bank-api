@@ -1,12 +1,28 @@
 # my-bank-api
 A Bootacamp IGTI API exercise API built with Node.js, Express, Cors and Winston modules.
 
-### get started
+### setup
 install dependencies<br/>
-```npm install```
+```shell
+# Clone the branch
+git clone https://github.com/fagnerlopes/my-bank-api.git
 
-tart server<br/>
-```nodemon index.js```
+cd my-bank-api
+
+npm install
+
+# Open a second terminal window and run:
+nodemon index.js
+```
+
+The app will run on http://127.0.0.1:3000<br/>
+
+
+
+### Tech stack
+
+* [React](https://github.com/facebook/react)
+
 
 Base URL: <http://localhost:3000/accounts>
 
