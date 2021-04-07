@@ -1,5 +1,5 @@
 # my-bank-api
-A Bootacamp IGTI exercise using Node.js and Express.
+A Bootacamp IGTI exercise using Node.js, Express, Cors and Winston modules.
 
 ### get started
 install dependencies<br/>
