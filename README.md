@@ -21,9 +21,9 @@ The app will run on http://127.0.0.1:3000<br/>
 
 ### Tech stack
 
-* ![Node.js](https://nodejs.org/pt-br/)
-* ![Express](https://expressjs.com/pt-br/)
-* ![Winston](https://github.com/winstonjs/winston)
+* [Node.js](https://nodejs.org/pt-br/)
+* [Express](https://expressjs.com/pt-br/)
+* [Winston](https://github.com/winstonjs/winston)
 
 
 Base URL: <http://localhost:3000/accounts>
